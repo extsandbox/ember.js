@@ -198,3 +198,7 @@ See <http://emberjs.com/> for annotated introductory documentation.
 * The website, along with documentation will be built into the `build`
   directory
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/extsandbox/ember.js/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
